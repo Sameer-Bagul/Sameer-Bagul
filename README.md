@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on [Notes Flow](https://github.com/Sameer-Bagul/notes-floww)
 
+- 📄 Know about my experiences [My Resume](https://github.com/Sameer-Bagul/Sameer-Bagul/blob/main/sameer-resume.pdf) 
+
 - 🌱 I’m currently learning **- Next.js - TypeScript - Tailwind CSS - GraphQL - Docker - Kubernetes - TensorFlow - PyTorch - Hugging Face - Rust - Web3 and Blockchain - Deno - T3 Stack (Next.js, tRPC, Tailwind CSS, TypeScript) - Edge Computing (Vercel Edge, Cloudflare Workers) - Serverless Frameworks (AWS Lambda, Netlify Functions)**
 
 - 👯 I’m looking to collaborate on [Dev Library](https://github.com/Sameer-Bagul/dev-library)
