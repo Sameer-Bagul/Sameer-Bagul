@@ -1,3 +1,4 @@
+ 
 <h1 align="center">Hi 👋, I'm Sameer Bagul</h1>
 <h3 align="center">Aspiring Software Developer skilled in full-stack development and Web Development, machine learning, and creative UI/UX design. Back-end Expert, Proven track record of delivering impactful freelance projects, enhancing client outreach, and driving user engagement. Seeking dynamic opportunities to contribute innovative software solutions.</h3>
 
