@@ -24,7 +24,7 @@ I'm an aspiring Software Developer with expertise in full-stack development, AI,
   - A self-finetuned **LLM-based AI assistant** using **LiveKit, LM Studio, and vLLM**, integrated with WhatsApp and SMTP for a "GOD AI" experience.
   - An **AI-powered notes app** with built-in AI assistance for creating publication-ready notes.
 - 👯 **I’m looking to collaborate on:** [Dev Library](https://github.com/Sameer-Bagul/dev-library)
-- 📄 **My Resume:** [View my complete resume](https://github.com/Sameer-Bagul/Sameer-Bagul/blob/main/sameer-resume.pdf)
+- 📄 **My Resume:** [View my complete resume](https://github.com/Sameer-Bagul/Sameer-Bagul/blob/main/sameerbagul-resume.pdf)
 - 👨‍💻 **Portfolio & Blog:** [Sameer Bagul - Portfolio](https://www.sameerbagul.me/)
 - 💬 **Ask me about:** MERN, Next.js, Python, DSA, C++, Java, and machine learning.
 - 📫 **How to reach me:** sameerbagul2004@gmail.com
