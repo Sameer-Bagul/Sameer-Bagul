@@ -86,18 +86,78 @@ Next.js + MongoDB event management system for college environments. Supported 50
 
 ---
 
-### 📈 GitHub & Dev Stats
+## 🏆 Profile Widgets & Stats
 
+### ⚡ Visitor Counter
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=sameer-bagul.sameer-bagul)
+
+---
+
+### 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sameer-bagul&theme=onedark&margin-h=5&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sameer-bagul&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-bagul&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>
+
+---
+
+### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameer-bagul&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-bagul&layout=compact&theme=radical" alt="Top Languages" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer-bagul&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
+
+---
+
+### 🏅 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer-bagul&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sameer-bagul&theme=onedark&margin-w=5&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
+
+---
+
+### 🧰 Technology Badges (Powered by Shields.io)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+---
+
+### 📚 GitHub Metrics 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameer-bagul&theme=react-dark&bg_color=0D1117&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+<!-- 
+### 📰 Latest Blog Posts
+
+- [Building AI-integrated Dev Tools @Hashnode](https://sameerbagul.hashnode.dev/)
+- [create-mern-auth: Simplify your full-stack setup](https://sameerbagul.hashnode.dev/) -->
+
+<!-- --- -->
+
+<!-- ### 🎵 Spotify Now Playing
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=sameerbagul&cover_image=true&theme=novatorem&show_offline=false&background_color=121212" alt="Spotify Now Playing" />
+</p>
+
+--- -->
+
+<!-- ### ☕ Buy Me a Coffee
+<p align="center">
+  <a href="https://www.buymeacoffee.com/sameerbagul">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+  </a>
+</p> -->
 
 ---
 
@@ -113,12 +173,17 @@ Next.js + MongoDB event management system for college environments. Supported 50
 ---
 
 ### 🎓 Fun Fact  
-> “Automation is my love language — if it runs twice, I script it.”
+> "Automation is my love language — if it runs twice, I script it."
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://holopin.io/api/user/board?user=sameerbagul" alt="Holopin Badges" />
 </p>
 
 <p align="center">
   <a href="https://stardev.io/developers/sameer-bagul"><img src="https://stardev.io/developers/sameer-bagul/badge/languages/locality.svg" alt="StarDev Badge" /></a>
-</p>
+</p> -->
+
+---
+
+> 💡 **Tip:** All widgets above are verified and will auto-update — just replace your username (`sameer-bagul`) and account IDs where applicable.
+
