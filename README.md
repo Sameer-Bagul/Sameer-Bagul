@@ -183,7 +183,3 @@ Next.js + MongoDB event management system for college environments. Supported 50
   <a href="https://stardev.io/developers/sameer-bagul"><img src="https://stardev.io/developers/sameer-bagul/badge/languages/locality.svg" alt="StarDev Badge" /></a>
 </p> -->
 
----
-
-> 💡 **Tip:** All widgets above are verified and will auto-update — just replace your username (`sameer-bagul`) and account IDs where applicable.
-
