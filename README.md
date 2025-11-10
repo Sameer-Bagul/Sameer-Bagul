@@ -1,90 +1,124 @@
- 
-<h1 align="center">Hi 👋, I'm Sameer Bagul</h1>
-<h3 align="center">Full-Stack & AI Developer | DevOps Engineer</h3>
+# Hi, I'm Sameer Bagul
+Full‑Stack & AI Developer · DevOps Engineer — building scalable, intelligent systems and developer‑first tools.
+
+---
+
+## About
+I build production‑grade web and AI systems: containerized backends, CI/CD pipelines, LLM integrations, and developer tooling. Currently full‑time at [Hashnode (Bug0)](https://hashnode.com/). I focus on automation, observability, and UX for developer workflows. Outside work I experiment with LLMs, RAG pipelines and open‑source tooling.
+
+---
+
+## Quick Links
+- Portfolio: https://www.sameerbagul.me/
+- GitHub: https://github.com/Sameer-Bagul
+- Email: sameerbagul2004@gmail.com
+- LinkedIn: https://linkedin.com/in/sameer-bagul
+
+---
+
+## Highlights
+- Building an LLM‑based assistant using LiveKit, vLLM & LangChain
+- Creator of the CLI: [`create-mern-auth`](https://www.npmjs.com/package/create-mern-auth)
+- Experience designing scalable backends, observability and CI/CD automation
+
+---
+
+## Tech Stack
+
+Languages & tooling:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+Frameworks & infra:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+AI & ML:
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
+
+Databases:
+
+#### Databases & Storage  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+
+#### DevOps & Cloud  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-A020F0?style=for-the-badge&logo=gitlab&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+#### AI & ML Stack  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD54F.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%23000000.svg?style=for-the-badge&logo=llama&logoColor=white)
+
+---
+
+### 🏗️ Key Projects
+
+**🧠 [HireMe | Skillify](https://github.com/Sameer-Bagul/Wcareer)**  
+AI-powered skill and career development platform for 1,000+ users. Built with MERN, Flask & LLMs. Winner of Smart India Hackathon 2024.
+
+**⚙️ [create-mern-auth (NPM)](https://www.npmjs.com/package/create-mern-auth)**  
+CLI tool to scaffold production-ready MERN authentication systems (JWT, OTP, email verification, dashboard included) — saving hours of setup.
+
+**🎯 [Evento](https://github.com/Sameer-Bagul/event-management-application)**  
+Next.js + MongoDB event management system for college environments. Supported 500+ concurrent users with low latency.
+
+---
+
+### 🏆 Achievements
+
+- **Smart India Hackathon 2024** – Grand Finalist & Runner-up (₹30,000)  
+- **Innovate You Hackathon 2025** – National Winner (₹10,000)  
+- Technical Lead, APP Club – PES MCOE (Mentored 200+ students, led full-stack projects)  
+
+---
+
+### 📈 GitHub & Dev Stats
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=sameer-bagul&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-    <img src="https://komarev.com/ghpvc/?username=sameer-bagul&label=Profile%20views&color=0e75b6&style=flat" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=sameer-bagul&theme=onedark&margin-h=5&no-bg=true" alt="GitHub Trophies" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sameer-bagul&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-bagul&layout=compact&theme=radical" alt="Top Languages" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer-bagul&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Connect with Me  
+
+<p align="left">
+<a href="https://www.sameerbagul.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sameer-bagul" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sameerbagul2004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Sameer-Bagul" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 🎓 Fun Fact  
+> “Automation is my love language — if it runs twice, I script it.”
+
+<p align="center">
+  <img src="https://holopin.io/api/user/board?user=sameerbagul" alt="Holopin Badges" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sameer-bagul" alt="Sameer Bagul's GitHub Trophies" />
-  </a>
-</p>
-
----
-
-### **About Me**
-
-I'm an aspiring Software Developer with expertise in full-stack development, AI, and DevOps. I have a proven track record of delivering impactful freelance projects and building innovative solutions, with a focus on creating scalable systems and automating processes. I'm actively seeking dynamic opportunities to contribute innovative software solutions. I'm also leading a new dev team to collaborate on more ambitious projects.
-
-- 🔭 **I’m currently working on:**
-  - A self-finetuned **LLM-based AI assistant** using **LiveKit, LM Studio, and vLLM**, integrated with WhatsApp and SMTP for a "GOD AI" experience.
-  - An **AI-powered notes app** with built-in AI assistance for creating publication-ready notes.
-- 👯 **I’m looking to collaborate on:** [Dev Library](https://github.com/Sameer-Bagul/dev-library)
-- 📄 **My Resume:** [View my complete resume](https://github.com/Sameer-Bagul/Sameer-Bagul/blob/main/sameerbagul-resume.pdf)
-- 👨‍💻 **Portfolio & Blog:** [Sameer Bagul - Portfolio](https://www.sameerbagul.me/)
-- 💬 **Ask me about:** MERN, Next.js, Python, DSA, C++, Java, and machine learning.
-- 📫 **How to reach me:** sameerbagul2004@gmail.com
-
----
-
-### **Experience**
-
-#### **Full Stack Software Developer & DevOps Engineer** (Aug 2025 - Present)
-*WyseTree – Business Process Transformation Services, Pune*
-- Designed and deployed scalable full-stack systems to optimize business processes.
-- Automated marketing and lead operations using an AI agent, handling over 100,000 leads.
-- Developed a complete medical lab platform with price-sorted recommendations.
-- Achieved 99% application uptime by deploying with **Nginx, Docker, and CI/CD pipelines**.
-
-#### **Web Developer Intern** (Jan 2025 - June 2025)
-*Walnut Solutions, Dhule*
-- Developed and deployed responsive web applications with **Next.js**, boosting SEO and user engagement by 30%.
-- Integrated RESTful APIs to reduce page load times by 30%.
-- Optimized websites for accessibility, leading to increased organic traffic and search rankings.
-
----
-
-### **Key Projects**
-
-#### **HireMe | Skillify** (Smart India Hackathon Winner)
-- **Tech Stack:** MERN, Electron.js, MongoDB, Python, Flask, LLMs
-- An **AI-powered skill development platform** that generates personalized learning roadmaps for over 1,000 users.
-- Fine-tuned ML models to automate skill and career path recommendations, increasing user engagement by 35%.
-
-#### **BillCraft** (Freelance Work)
-- **Tech Stack:** MERN, Electron.js, MongoDB
-- A multi-shop billing platform for a construction company, managing 18+ outlets and 200+ products.
-- Implemented business intelligence dashboards and managed over 2,000 customer records to improve operational accuracy.
-
-#### **Evento**
-- **Tech Stack:** Next.js, MongoDB
-- A college event management platform that streamlined planning and communication, increasing event participation by 25%.
-- Optimized performance to support 500+ concurrent users with minimal latency.
-
----
-
-### **Languages and Tools:**
-
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
----
-
-### **Achievements**
-
-- **Grand Finalist & Runner-up**, Smart India Hackathon 2024 (awarded ₹30,000).
-- **National Winner**, Innovate You Hackathon 2025 (awarded ₹10,000).
-- Served as **Technical Lead of the APP Club**, mentoring over 200 students.
-
----
-
-### **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer-bagul&show_icons=true&locale=en&layout=compact" alt="Sameer's Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sameer-bagul&show_icons=true&locale=en" alt="Sameer's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer-bagul&" alt="Sameer's GitHub Streak" />
+  <a href="https://stardev.io/developers/sameer-bagul"><img src="https://stardev.io/developers/sameer-bagul/badge/languages/locality.svg" alt="StarDev Badge" /></a>
 </p>
