@@ -103,7 +103,7 @@ Next.js + MongoDB event management system for college environments. Supported 50
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer-bagul&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer-Bagul&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 ---
