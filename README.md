@@ -27,9 +27,9 @@ a@@@@@@@@@@2                                    v@@@@@@@@@@;   contact informati
 @@@@@@@@@@@.                                     @@@@@@@@@@%   Website: sameerbagul.me
 #@@@@@@@@@@r                                    :@@@@@@@@@@s   Github: sameer-bagul
 W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
-~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    device specifications
+~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    mission status
  ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    ---------------------
-  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     CPU: DevOps Human Brain
+  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     Mission: Scaling Hashnode (Bug0)
    2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~
     .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.
       x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=
@@ -54,8 +54,10 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
   </p>
   <p align="center">
     <strong>Full‑Stack & AI Developer · DevOps Engineer</strong><br/>
-    Building scalable, intelligent systems and developer‑first tools.<br/>
-    Currently pushing boundaries at <strong>Hashnode (Bug0)</strong>.
+    Building scalable, intelligent systems and developer‑first tools.<br/><br/>
+    <a href="https://hashnode.com" target="_blank">
+      <img src="https://img.shields.io/badge/Working%20At-Hashnode%20(Bug0)-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Working at Hashnode" />
+    </a>
   </p>
  </samp>
 </div>
@@ -67,22 +69,6 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
   <samp>
     <h2 align="center"> Github stats </h2>
       <br/>
-    <details open>
-  <summary><h3>Languages</h3></summary>
-            <p align="center">
-        <a href="https://github.com/sameer-bagul/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-bagul&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="sameer-bagul :: overall Top Langs " /></a>
-      </p>
-        <p align="center">
-          <a href="https://github.com/sameer-bagul/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sameer-bagul&theme=gruvbox&layout=compact&hide_border=true"
-          alt="sameer-bagul :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sameer-bagul&theme=gruvbox&layout=compact&hide_border=true"
-          alt="sameer-bagul :: Top Langs by commit" />
-          </a>
-        </p>
-</details>
     <details open>
   <summary><h3>stasistic</h3></summary>
         <p align="center">
