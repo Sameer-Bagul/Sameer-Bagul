@@ -10,30 +10,30 @@
 ---
 
 ```console
-mannu@archbtw:~$ gitfetch
+sameer@workstation:~$ gitfetch
 
                    .~vVeZNgQBBBQQg9Ze1v~.
-              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 mannu@archbtw
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 sameer@workstation
            -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -----------------------
         .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: GNU/Linux
-      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 18 years
+      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 22 years
     `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: 1030 (pacman)
    ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: /bin/zsh
-  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: vim, vscode
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: git@github.com:MannuVilasara
+  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: neovim, vscode
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: git@github.com:sameer-bagul
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0
 a@@@@@@@@@@2                                    v@@@@@@@@@@;   contact information
 #@@@@@@@@@@_                                     @@@@@@@@@@y   -------------------
-@@@@@@@@@@@.                                     @@@@@@@@@@%   Website:mannu.live
-#@@@@@@@@@@r                                    :@@@@@@@@@@s   Github: MannuVilasara
+@@@@@@@@@@@.                                     @@@@@@@@@@%   Website: sameerbagul.me
+#@@@@@@@@@@r                                    :@@@@@@@@@@s   Github: sameer-bagul
 W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 ~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    device specifications
  ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    ---------------------
-  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     CPU: Normal Human Brain
+  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     CPU: DevOps Human Brain
    2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~
     .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.
       x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=
-        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=
+        =p#@@@#%Il]]L1,              M@@@@@@@@@#V=
           `vR#@@@@@@@@?              M@@@@@@@@#Pv`
               "Lf8@@@@v              q@@@#Qa?:
                   -!v|`              _?v!`
@@ -43,14 +43,19 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
   <summary>🧮 about</summary>
 <div>
 <samp>
-<h2 align="center">About this Account</h2>
+<h2 align="center">About Me</h2>
  <p align="center">
-  <a href="github.com/MannuVilasara" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=MannuVilasara&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+  <a href="github.com/sameer-bagul" target="blank"><img align="center" 
+     src="https://komarev.com/ghpvc/?username=sameer-bagul&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
-  <a href="https://mannu.live/"><img align="center" 
-     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fmannu.live" height="25"
+  <a href="https://sameerbagul.me/"><img align="center" 
+     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fsameerbagul.me" height="25"
      alt="website" /></a>
+  </p>
+  <p align="center">
+    <strong>Full‑Stack & AI Developer · DevOps Engineer</strong><br/>
+    Building scalable, intelligent systems and developer‑first tools.<br/>
+    Currently pushing boundaries at <strong>Hashnode (Bug0)</strong>.
   </p>
  </samp>
 </div>
@@ -65,25 +70,25 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
     <details open>
   <summary><h3>Languages</h3></summary>
             <p align="center">
-        <a href="https://github.com/MannuVilasara/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MannuVilasara&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="Mannu :: overall Top Langs " /></a>
+        <a href="https://github.com/sameer-bagul/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-bagul&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="sameer-bagul :: overall Top Langs " /></a>
       </p>
         <p align="center">
-          <a href="https://github.com/MannuVilasara/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MannuVilasara&theme=gruvbox&layout=compact&hide_border=true"
-          alt="Mannu :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MannuVilasara&theme=gruvbox&layout=compact&hide_border=true"
-          alt="Mannu :: Top Langs by commit" />
+          <a href="https://github.com/sameer-bagul/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sameer-bagul&theme=gruvbox&layout=compact&hide_border=true"
+          alt="sameer-bagul :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sameer-bagul&theme=gruvbox&layout=compact&hide_border=true"
+          alt="sameer-bagul :: Top Langs by commit" />
           </a>
         </p>
 </details>
     <details open>
   <summary><h3>stasistic</h3></summary>
         <p align="center">
-          <a href="https://github.com/MannuVilasara/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MannuVilasara&show_icons=true&theme=rose_pine&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MannuVilasara&theme=rose_pine&hide_border=true" />
+          <a href="https://github.com/sameer-bagul/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sameer-bagul&show_icons=true&theme=rose_pine&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer-bagul&theme=rose_pine&hide_border=true" />
           </a>
        </p>
      <br>
@@ -97,22 +102,24 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
   <br/>
   <h2 align="center"> latest contribution </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MannuVilasara&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+  <img alt="sameer-bagul's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sameer-bagul&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 <br/>
   </samp>
   </details>
 
- <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E7334&center=true&vCenter=true&width=435&lines=Freelance+embedded+device+developer;have+high+creativity;Able+to+work+in+team+or+individual+" alt="Typing SVG" /></a></p>
+ <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E7334&center=true&vCenter=true&width=435&lines=Full-Stack+%26+AI+Developer;DevOps+Engineer;Automation+Enthusiast;Working+at+Hashnode+(Bug0)" alt="Typing SVG" /></a></p>
   
   
 -----
 
-[![Skills](https://skillicons.dev/icons?i=js,html,css,py,neovim,vscode,mysql,mongodb,md,linux,git,github,githubactions,bots)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,html,css,py,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,nginx,githubactions,vercel,pytorch,tensorflow,openai,linux,git,bash,aws,azure,gcp,kubernetes,terraform,ansible,jenkins,mysql,redis,sqlite,graphql,apollo,tailwind,bootstrap,sass,figma,postman,neovim,vscode,vim,md,replit,pnpm,yarn,npm,bots,discord,github,gitlab,bitbucket,java,cpp,go,rust,php,ruby,swift,kotlin,dart,flutter,unity,csharp,dotnet,android,apple,unreal,sketchup,blender,illustrator,photoshop,aftereffects,premiere,audition,abelton,obsidian,notion,stackoverflow,raspberrypi,arduino)](https://skillicons.dev)
 
 ### Find me here
 
-[![dev](https://skillicons.dev/icons?i=devto)](https://dev.to/mannu)
-[![insta](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dev_mannuu)
-[![dev](https://skillicons.dev/icons?i=discord)](https://discord.com/users/786926252811485186)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sameer-bagul)
+[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:sameerbagul2004@gmail.com)
+[![github](https://skillicons.dev/icons?i=github)](https://github.com/sameer-bagul)
+[![dev](https://skillicons.dev/icons?i=devto)](https://dev.to/sameerbagul)
+[![insta](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/sameerbagul)
 
 ![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
