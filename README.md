@@ -112,7 +112,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
   
 -----
 
-[![Skills](https://skillicons.dev/icons?i=js,html,css,py,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,nginx,githubactions,vercel,pytorch,tensorflow,openai,linux,git,bash,aws,azure,gcp,kubernetes,terraform,ansible,jenkins,mysql,redis,sqlite,graphql,apollo,tailwind,bootstrap,sass,figma,postman,neovim,vscode,vim,md,replit,pnpm,yarn,npm,bots,discord,github,gitlab,bitbucket,java,cpp,go,rust,php,ruby,swift,kotlin,dart,flutter,unity,csharp,dotnet,android,apple,unreal,sketchup,blender,illustrator,photoshop,aftereffects,premiere,audition,abelton,obsidian,notion,stackoverflow,raspberrypi,arduino)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,html,css,py,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,nginx,githubactions,vercel,pytorch,tensorflow,openai,linux,git,bash,aws,azure,gcp,kubernetes,bun,terraform,ansible,jenkins,mysql,redis,sqlite,graphql,apollo,tailwind,bootstrap,sass,figma,postman,neovim,vscode,vim,md,replit,pnpm,yarn,npm,bots,discord,github,gitlab,bitbucket,java,cpp,go,rust,php,ruby,kotlin,unity,csharp,dotnet,android,unreal,sketchup,blender,audition,abelton,obsidian,notion,stackoverflow,raspberrypi,arduino)](https://skillicons.dev)
 
 ### Find me here
 
