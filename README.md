@@ -21,7 +21,7 @@ sameer@workstation:~$ gitfetch
    ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: /bin/zsh
   ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: neovim, vscode
  :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: git@github.com:sameer-bagul
-_g@@@@@@@@@@2-                                `M@@@@@@@@@@0
+_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Work: Hashnode (Bug0)
 a@@@@@@@@@@2                                    v@@@@@@@@@@;   contact information
 #@@@@@@@@@@_                                     @@@@@@@@@@y   -------------------
 @@@@@@@@@@@.                                     @@@@@@@@@@%   Website: sameerbagul.me
