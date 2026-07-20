@@ -63,24 +63,20 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 </div>
 </details>
   
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-  <samp>
-    <h2 align="center"> Github stats </h2>
-      <br/>
-    <details open>
-  <summary><h3>stasistic</h3></summary>
-        <p align="center">
-          <a href="https://github.com/sameer-bagul/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sameer-bagul&show_icons=true&theme=rose_pine&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer-bagul&theme=rose_pine&hide_border=true" />
-          </a>
-       </p>
-     <br>
-     </samp>
-  </div>    
-</details>
+
+<div>
+<samp>
+  <h2 align="center"> Github stats </h2>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/sameer-bagul/">
+      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sameer-bagul&show_icons=true&theme=rose_pine&hide_border=true" />
+      <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer-bagul&theme=rose_pine&hide_border=true" />
+    </a>
+  </p>
+  <br>
+</samp>
+</div>
 
 <details>
   <summary>📈 Latest Activity Graph</summary>
